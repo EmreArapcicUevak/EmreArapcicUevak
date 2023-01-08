@@ -7,6 +7,7 @@ I am currently interested in Artificial Inteligence
 ### How to reach me:
 
 :mailbox: EmreArapcicUevak@gmail.com
+
 :mailbox: EmreArapcicUevak@outlook.com
 
 ---
