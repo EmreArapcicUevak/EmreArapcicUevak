@@ -29,3 +29,12 @@ I am currently interested in Artificial Inteligence
 	<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" height="40"/>&nbsp;
 </div>
+
+---
+
+### My GitHub Stats:
+
+<div aling="center">
+	[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=EmreArapcicUevak&theme=dark&background=000000)](https://git.io/streak-stats)
+	[![GitHub Streak][https://github-readme-stats.vercel.app/api/top-langs/?username=EmreArapcicUevak&layout=compact&theme=vision-friendly-dark](https://github.com/anuraghazra/github-readme-stats)
+</div>
