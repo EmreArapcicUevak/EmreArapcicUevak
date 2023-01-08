@@ -34,7 +34,7 @@ I am currently interested in Artificial Inteligence
 
 ### My GitHub Stats:
 
-<div aling="center">
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=EmreArapcicUevak&theme=dark&background=000000)](https://git.io/streak-stats)
 
