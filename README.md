@@ -27,7 +27,9 @@ I am currently interested in Artificial Intelligence
 
 ---
 
-### Technologies that I use:
+
+<details open>
+<summary><h3>Technologies that I use:</h3></summary>
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" height="40"/>&nbsp;
@@ -46,6 +48,7 @@ I am currently interested in Artificial Intelligence
 <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" height="40"/>&nbsp;
 </div>
+</details>
 
 ---
 
