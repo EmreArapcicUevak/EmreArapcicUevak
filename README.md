@@ -59,3 +59,8 @@ I am currently interested in Artificial Intelligence
 </div>
 
 </details>
+
+
+<footer>
+<img src="./Images/footer.svg" width="100%"/>
+</footer>
