@@ -54,6 +54,8 @@ I am currently interested in Artificial Intelligence
 [![GitHub Streak](https://streak-stats.demolab.com?user=EmreArapcicUevak&theme=vision-friendly-dark&background=000000&dates=03D8F3&sideLabels=FCEE0C&currStreakLabel=FCEE0C&currStreakNum=03D8F3&sideNums=03D8F3&ring=FCEE0C)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreArapcicUevak&layout=compact&bg_color=000000&title_color=fcee0c&text_color=03d8f3)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmreArapcicUevak&show_icons=true&bg_color=000000&title_color=fcee0c&text_color=03d8f3&icon_color=f8c8dc)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 </details>
