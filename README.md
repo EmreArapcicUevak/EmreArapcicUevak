@@ -68,6 +68,6 @@ I am currently interested in Artificial Intelligence
 
 
 <footer>
-<img src="https://tenor.com/view/vi-vim-linux-unix-gif-23101840" width="100%"/>
+<div class="tenor-gif-embed" data-postid="23101840" data-share-method="host" data-aspect-ratio="2.93578" data-width="100%"><a href="https://tenor.com/view/vi-vim-linux-unix-gif-23101840">Vi Vim GIF</a>from <a href="https://tenor.com/search/vi-gifs">Vi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <img src="./Images/footer.svg" width="100%"/>
 </footer>
