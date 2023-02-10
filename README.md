@@ -69,7 +69,7 @@ I am currently interested in Artificial Intelligence
 
 <footer>
 
-<div aling="center">
+<div align="center">
 <img src="https://media.tenor.com/IdkgtVgCl-MAAAAC/vi-vim.gif" width="250px" height="auto" />
 </div>
 
