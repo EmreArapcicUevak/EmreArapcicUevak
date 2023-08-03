@@ -1,0 +1,2 @@
+<div style="display:flex;"><div style="margin-top:10px;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&repeat=false&width=250&height=30&lines=Hello+my+name+is+Emre" alt="Typing SVG" /></div></a><div>
+<a> <img src="./Images/wave.gif" width="30px"> </a></div></div>
