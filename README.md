@@ -21,9 +21,9 @@ I am currently interested in Artificial Intelligence
 
 ### How to reach me:
 
-:mailbox: EmreArapcicUevak@gmail.com
+:mailbox: <a href="mailto:EmreArapcicUevak@gmail.com">EmreArapcicUevak@gmail.com</a>
 
-:mailbox: EmreArapcicUevak@outlook.com
+:mailbox: <a href="mailto:EmreArapcicUevak@outlook.com">EmreArapcicUevak@outlook.com</a>
 
 ---
 
