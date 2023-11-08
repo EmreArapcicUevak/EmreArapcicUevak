@@ -1,7 +1,7 @@
 # Hello, I'm Emre ✨
 
 <div align="center">
-  <img src="./Images/sideProfilePicture.jpeg" alt="profile-pic" width="120" height="120" style="border-radius:50%">
+  <img src="./Images/sideProfilePicture.png" alt="profile-pic" width="130" height="130" style="">
   <br>
   <br>
 
