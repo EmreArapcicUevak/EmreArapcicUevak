@@ -1,10 +1,7 @@
 # Hello, I'm Emre ✨
 
 <div align="center">
-  <img src="./Images/sideProfilePicture.png" alt="profile-pic" width="130" height="130" style="">
-  <br>
-  <br>
-
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Contemplating+the+beauty+of+code...;Creating+with+curiosity+and+care+💻;Exploring+the+world+through+algorithms+🌐;Crafting+the+future+of+AI+with+heart+❤️)](https://git.io/typing-svg)
 </div>
 
