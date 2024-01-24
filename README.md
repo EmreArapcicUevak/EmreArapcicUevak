@@ -34,8 +34,7 @@
 
 <div align="center">
   <h1>Contact me!</h1>
-  <img src="./Images/LeonHeart.png" alt="Leon" style="width: 50px;"/>
-  <img src="./Images/AdaHeart.png" alt="Ada" style="width: 50px;"/>
+  <img src="./Images/LeonHeart.png" alt="Leon" style="width: 60px; display: inline-block; vertical-align: middle;"/><img src="./Images/AdaHeart.png" alt="Ada" style="width: 60px; display: inline-block; vertical-align: middle;"/>
 </div>
 
 <div align="center">
