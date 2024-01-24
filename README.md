@@ -1,87 +1,53 @@
-# Hello, I'm Emre ✨
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Contemplating+the+beauty+of+code...;Creating+with+curiosity+and+care+💻;Exploring+the+world+through+algorithms+🌐;Crafting+the+future+of+AI+with+heart+❤️)](https://git.io/typing-svg)
+<div>
+  <img align="right" class="ada" src="./Images/AdaWong.png" width="100" height="auto">
 </div>
 
-## 👨‍💻 About Me
-I'm a 20-year-old Computer Science student 🎓, deeply in love with the poetry of mathematics 📐 and the art of artificial intelligence 🤖. I believe in understanding the core 🧠 of AI and building it from scratch.
+### About Me:
 
-## 🌱 What I'm Learning
-Currently, I'm immersing myself in:
-- C++ for crafting efficient and elegant code 📝
-- AI algorithms that mimic the complexity and beauty of the mind 🧩
-- Mathematical concepts that are the universe's poetry 🔮
-<details>
-<summary>My Roadmap</summary>
+- 🎓 Computer Science student at Internation University of Sarajevo 
+- 🔍 Currently diving deep into Mathematics to unravel the complexities of Artificial Intelligence
+- 🤖 Aspiring to build AI from scratch – steering clear of any *Umbrella Corporation* shenanigans
+- 🎮 Enthusiast of the Resident Evil series
+- 📚 Let's chat about Neural Networks, Genetic Algorithms, and the fascinating math that powers AI
 
-### 1. Foundations: 📍Current here 
-- **Mathematical Background**: Calculus, Linear Algebra, Probability and Statistics, Vector Calculus, Optimization, Discrete Mathematics.
+<div align="center">
+  <h1>Technologies I use</h1>
+</div>
 
-### 2. Algorithms and Data Handling:
-- **Algorithms**: Design and analysis, sorting and searching.
-- **Databases**: SQL and NoSQL basics.
-- **Data Preprocessing**: Handling missing data, normalization, feature extraction.
+<div align="center" style="margin-bottom: 5px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="7%" height="auto"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="7%" height="auto"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" width="7%" height="auto"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="7%" height="auto"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="7%" height="auto"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" width="7%" height="auto"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="7%" height="auto"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="7%" height="auto"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="7%" height="auto"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="7%" height="auto"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="7%" height="auto"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="7%" height=""auto />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="7%" height="auto"/>
+</div>
 
-### 3. Intermediate AI Concepts:
-- **Machine Learning Basics**: Supervised, unsupervised, reinforcement learning.
-- **Classic AI Algorithms**: Search algorithms, planning algorithms.
+<br>
 
-### 4. Advanced AI Concepts:
-- **Neural Network Architectures**: CNNs, RNNs, Transformers.
-- **Reinforcement Learning**: Q-learning, policy gradient methods.
-- **Natural Language Processing**: Tokenization, state-of-the-art models.
+<div align="center">
+  <h1>Contact me!</h1>
+  <img src="./Images/LeonHeart.png" alt="Leon" style="width: 60px; display: inline-block; vertical-align: middle;"/><img src="./Images/AdaHeart.png" alt="Ada" style="width: 60px; display: inline-block; vertical-align: middle;"/>
+</div>
 
-### 5. Specialization:
-- **Computer Vision**
-- **Speech Recognition**
-- **Robotics**
-- **Advanced NLP & Understanding**
-- **Generative Adversarial Networks (GANs)**
+<div align="center">
+  <a href="mailto:EmreArapcicUevak@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/emre-arapcicuevak-5a8b58254/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
-### 6. Practical Experience:
-- **High-Level Libraries**: TensorFlow, PyTorch, Keras.
-- **Real-world Projects**: Digit recognizers, chatbots.
-- **Open Source Contributions**
+<br>
 
-### 7. Complementary Subjects:
-- **Ethics in AI**
-- **Distributed Systems**
-- **Signal Processing**
-
-### 8. Continual Learning and Networking:
-- **Conferences and Workshops**
-- **Networking**: AI communities, forums.
-- **Research**: Academic papers.
-
-</details>
-
-## 🎨 Projects & Interests
-<details>
-
-<summary>Click to expand!</summary>
-
-### Planned:
-- **Simple Calculator**: Basic arithmetic to advanced calculus operations.
-- **Data Visualization Tool**: Using Python for various types of data representations.
-- **Matrix Calculator**: Matrix operations, including inversion.
-- **Eigenvalue and Eigenvector Visualizer**: For practical applications of linear algebra.
-- **Function Plotter with Derivatives**: Visualize functions and their derivatives.
-- **Monte Carlo Simulation**: Estimate π using random sampling.
-
-### In Progress:
-### Completed:
-</details>
-
-## 📚 Currently Reading
-- Pearson's books in Vector Calculus, Linear Algebra, Probability and Statistics, and Artificial Intelligence
-
-## 🎵 Personal Notes
-- In my downtime, I find joy in taking walks, playing games, hanging out with family and friends ✨
-- Cherishing moments with my amazing girlfriend, Galina 💖
-
-## 💌 Let's Connect
-- Email: [EmreArapcicUevak@gmail.com](mailto:EmreArapcicUevak@gmail.com)
-
-Feel free to reach out for a friendly chat or potential collaborations! 🌟
+<div align="left" style="margin-top: 5px;">
+  <img class="Leon" src="./Images/LeonKenedy.png" width="100" height="auto">
+</div>
