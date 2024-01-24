@@ -1,5 +1,7 @@
 <div>
-  <img align="right" class="ada" src="./Images/AdaWong.png" width="100" height="auto">
+  <a href="https://www.instagram.com/emmentalplushy?igshid=MWZsbmpwNmFua3dnYw==" target="_blank">
+    <img align="right" class="ada" src="./Images/AdaWong.png" width="100" height="auto">
+  </a>
 </div>
 
 ### About Me:
@@ -49,5 +51,7 @@
 <br>
 
 <div align="left" style="margin-top: 5px;">
-  <img class="Leon" src="./Images/LeonKenedy.png" width="100" height="auto">
+  <a href="https://www.instagram.com/emmentalplushy?igshid=MWZsbmpwNmFua3dnYw==" target="_blank">
+    <img class="Leon" src="./Images/LeonKenedy.png" width="100" height="auto">
+  </a>
 </div>
