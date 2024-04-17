@@ -1,14 +1,8 @@
-<div>
-  <a href="https://www.instagram.com/emmentalplushy?igshid=MWZsbmpwNmFua3dnYw==" target="_blank">
-    <img align="right" class="ada" src="./Images/AdaWong.png" width="100" height="auto">
-  </a>
-</div>
-
 ### About Me:
 
 - 🎓 Computer Science student at Internation University of Sarajevo 
 - 🔍 Currently diving deep into Mathematics to unravel the complexities of Artificial Intelligence
-- 🤖 Aspiring to build AI from scratch – steering clear of any *Umbrella Corporation* shenanigans
+- 🤖 Aspiring to build AI from scratch 
 - 🎮 Enthusiast of the Resident Evil series
 - 📚 Let's chat about Neural Networks, Genetic Algorithms, and the fascinating math that powers AI
 
@@ -36,7 +30,6 @@
 
 <div align="center">
   <h1>Contact me!</h1>
-  <img src="./Images/LeonHeart.png" alt="Leon" style="width: 60px; display: inline-block; vertical-align: middle;"/><img src="./Images/AdaHeart.png" alt="Ada" style="width: 60px; display: inline-block; vertical-align: middle;"/>
 </div>
 
 <div align="center">
@@ -50,8 +43,4 @@
 
 <br>
 
-<div align="left" style="margin-top: 5px;">
-  <a href="https://www.instagram.com/emmentalplushy?igshid=MWZsbmpwNmFua3dnYw==" target="_blank">
-    <img class="Leon" src="./Images/LeonKenedy.png" width="100" height="auto">
-  </a>
-</div>
+<img src="./Images/TojiBanner.gif" alt="Rotated Banner" style="transform: rotate(180deg);width: 120%">
