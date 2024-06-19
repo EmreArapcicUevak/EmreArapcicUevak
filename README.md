@@ -1,19 +1,17 @@
-<div>
-  <a href="https://www.instagram.com/emmentalplushy?igshid=MWZsbmpwNmFua3dnYw==" target="_blank">
-    <img align="right" class="ada" src="./Images/AdaWong.png" width="100" height="auto">
-  </a>
+<div align="center">
+  <h1>Hi there! I'm Emre Arapcic Uevak 👋</h1>
 </div>
 
-### About Me:
+🎓 **Computer Science student at the International University of Sarajevo**  
+🔍 **Diving deep into Mathematics to unravel the complexities of Artificial Intelligence**  
+🤖 **Aspiring to build AI from scratch**
 
-- 🎓 Computer Science student at Internation University of Sarajevo 
-- 🔍 Currently diving deep into Mathematics to unravel the complexities of Artificial Intelligence
-- 🤖 Aspiring to build AI from scratch – steering clear of any *Umbrella Corporation* shenanigans
-- 🎮 Enthusiast of the Resident Evil series
-- 📚 Let's chat about Neural Networks, Genetic Algorithms, and the fascinating math that powers AI
+I'm passionate about understanding the mathematics behind AI, especially topics like numerical analysis and vector analysis. My journey in AI has been fueled by exploring neural networks and the fascinating math that powers these technologies.
+
+---
 
 <div align="center">
-  <h1>Technologies I use</h1>
+  <h1>Technologies I Use</h1>
 </div>
 
 <div align="center" style="margin-bottom: 5px;">
@@ -28,15 +26,36 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="7%" height="auto"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="7%" height="auto"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="7%" height="auto"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="7%" height=""auto />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="7%" height="auto"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="7%" height="auto"/>
 </div>
 
-<br>
+---
 
 <div align="center">
-  <h1>Contact me!</h1>
-  <img src="./Images/LeonHeart.png" alt="Leon" style="width: 60px; display: inline-block; vertical-align: middle;"/><img src="./Images/AdaHeart.png" alt="Ada" style="width: 60px; display: inline-block; vertical-align: middle;"/>
+  <h1>My AI Journey</h1>
+</div>
+
+🌟 **Numerical Analysis Enthusiast**  
+My fascination with numerical analysis has been a cornerstone in my understanding of how algorithms function and optimize themselves. From solving complex equations to applying these principles in AI, it's been an exhilarating experience.
+
+🌟 **Vector Analysis and Gradient Descent**  
+Vector analysis has significantly deepened my grasp of gradient descent, a crucial algorithm in training neural networks. Understanding the flow and change in multi-dimensional spaces has been eye-opening.
+
+🌟 **Currently Reading**  
+I'm diving into some incredible AI literature. Here are a few books that have been on my reading list:
+- *Machine Learning Fundamentals* by Hui Jiang
+- *Neural Networks and Deep Learning: A Textbook* by Charu C. Aggarwal
+- *Understanding Deep Learning* by Simon J. D. Prince
+
+🌟 **AI Projects**  
+I've worked on several projects that blend AI with practical applications. Here’s a glimpse into one of my projects:
+- [Singleton Neural Network for Flower Color Prediction](https://github.com/EmreArapcicUevak/First-Project-About-AI): A neural network that predicts flower colors based on the width and height of the petals.
+
+---
+
+<div align="center">
+  <h1>Contact Me!</h1>
 </div>
 
 <div align="center">
@@ -48,10 +67,6 @@
   </a>
 </div>
 
-<br>
+---
 
-<div align="left" style="margin-top: 5px;">
-  <a href="https://www.instagram.com/emmentalplushy?igshid=MWZsbmpwNmFua3dnYw==" target="_blank">
-    <img class="Leon" src="./Images/LeonKenedy.png" width="100" height="auto">
-  </a>
-</div>
+Feel free to reach out if you want to chat about AI, neural networks, or anything tech-related. Let's connect and build something amazing!
