@@ -35,3 +35,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+<br><br><br><br>
+<div align="center">
+<h2>Rest in peace Sayuri</h2>
+<a href="https://x.com/taltalasuka/status/1839500307094450552"><img src="https://github.com/EmreArapcicUevak/EmreArapcicUevak/blob/main/Images/RipSayuri.png" align="center" width="80%"/></a>
+</div>
