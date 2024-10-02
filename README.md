@@ -39,5 +39,5 @@
 <br><br><br><br>
 <div align="center">
 <h2>Rest in peace Sayuri</h2>
-<a href="https://x.com/taltalasuka/status/1839500307094450552"><img src="https://github.com/EmreArapcicUevak/EmreArapcicUevak/blob/main/Images/RipSayuri.png" align="center" width="80%"/></a>
+<a href="https://x.com/taltalasuka/status/1839500307094450552"><img src="https://github.com/EmreArapcicUevak/EmreArapcicUevak/blob/main/Images/RipSayuri.png" align="center" width="500px"/></a>
 </div>
