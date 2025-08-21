@@ -16,6 +16,9 @@
     <a href="https://github.com/spamegg1/Epp-Discrete-Math-5th-solutions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=spamegg1&repo=Epp-Discrete-Math-5th-solutions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Epp-Discrete-Math-5th-solutions"></a>
     <a href="https://github.com/EmreArapcicUevak/NeuralNetworkPractice/tree/main"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmreArapcicUevak&repo=NeuralNetworkPractice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="NeuralNetworkPractice"></a>
     <a href="https://github.com/EmreArapcicUevak/NeuralNetworkPractice/tree/main"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmreArapcicUevak&repo=Numerical-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Numerical-Analysis"></a>
+        <a href="https://github.com/EmreArapcicUevak/N-puzzle-Solver">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmreArapcicUevak&repo=N-puzzle-Solver&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="N-puzzle-Solver">
+    </a>
   </p>
   
 </details>
