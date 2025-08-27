@@ -47,11 +47,7 @@
   </p>
 </div>
 
---- 
-
-<div align="center">
-  <h1>Contact Me!</h1>
-  
+<div align="left">
   <a href="mailto:EmreArapcicUevak@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
