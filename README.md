@@ -40,11 +40,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-<br>
 
 ---
 
-<br>
 <div align="center">
   <h3>🌍 Languages I Speak — Sprachen, die ich spreche</h3>
   <br>
