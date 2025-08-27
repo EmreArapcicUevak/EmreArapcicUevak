@@ -42,16 +42,13 @@
 <div align="center">
   <h3>🌍 Languages I Speak — Sprachen, die ich spreche</h3>
   <p>
-    <img src="https://hatscripts.github.io/circle-flags/flags/ba.svg" width="35" title="Bosnian"/> <br>
-    <b>Bosanski</b>
-  </p>
-  <p>
-    <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="35" title="English"/> <br>
-    <b>English</b>
-  </p>
-  <p>
-    <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="35" title="German"/> <br>
-    <b>Deutsch</b>
+    <img src="https://hatscripts.github.io/circle-flags/flags/ba.svg" width="35" title="Bosnian"/> <b>Bosanski</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+    
+    <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="35" title="British English"/>
+    <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="35" title="American English"/> <b>English</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+    
+    <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="35" title="German (Germany)"/>
+    <img src="https://hatscripts.github.io/circle-flags/flags/ch.svg" width="35" title="German (Switzerland)"/> <b>Deutsch</b>
   </p>
 </div>
 
