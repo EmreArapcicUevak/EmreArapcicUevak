@@ -40,9 +40,18 @@
 
 <br>
 <div align="center">
-  <h3>Languages I speak - Sprachen, die ich spreche</h3>
+  <h3>🌍 Languages I Speak — Sprachen, die ich spreche</h3>
   <p>
-    <b>Bosanski</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>English</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>Deutsch</b>
+    <img src="https://hatscripts.github.io/circle-flags/flags/ba.svg" width="35" title="Bosnian"/> <br>
+    <b>Bosanski</b>
+  </p>
+  <p>
+    <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="35" title="English"/> <br>
+    <b>English</b>
+  </p>
+  <p>
+    <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="35" title="German"/> <br>
+    <b>Deutsch</b>
   </p>
 </div>
 
