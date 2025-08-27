@@ -10,35 +10,33 @@
 ---
 
 <details open> 
-  <summary align="center"><h2>📕 Top Projects & Contributions I’m Proud Of</h2></summary>
-
-  <p align="center">
-    <a href="https://github.com/spamegg1/Epp-Discrete-Math-5th-solutions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=spamegg1&repo=Epp-Discrete-Math-5th-solutions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Epp-Discrete-Math-5th-solutions"></a>
-    <a href="https://github.com/EmreArapcicUevak/NeuralNetworkPractice/tree/main"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmreArapcicUevak&repo=NeuralNetworkPractice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="NeuralNetworkPractice"></a>
-    <a href="https://github.com/EmreArapcicUevak/NeuralNetworkPractice/tree/main"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmreArapcicUevak&repo=Numerical-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Numerical-Analysis"></a>
-        <a href="https://github.com/EmreArapcicUevak/N-puzzle-Solver">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EmreArapcicUevak&repo=N-puzzle-Solver&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="N-puzzle-Solver">
-    </a>
-  </p>
-  
-</details>
-
----
-
-<details open> 
   <summary align="center"><h2>🛠️ Technologies I Work With</h2></summary>
 
-  <p align="center">
-    <img src="https://simpleicons.org/icons/python.svg" alt="Python" height="40" style="display:inline; margin:5px;">
-    <img src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" height="40" style="display:inline; margin:5px;">
-    <img src="https://simpleicons.org/icons/julia.svg" alt="Julia" height="40" style="display:inline; margin:5px;">
-    <img src="https://simpleicons.org/icons/pandas.svg" alt="Pandas" height="40" style="display:inline; margin:5px;">
-    <img src="https://simpleicons.org/icons/pytest.svg" alt="PyTest" height="40" style="display:inline; margin:5px;">
-    <img src="https://simpleicons.org/icons/c.svg" alt="C" height="40" style="display:inline; margin:5px;">
-    <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" height="40" style="display:inline; margin:5px;">
+  <p align="center"> 
+    <a href="https://www.python.org" target="_blank"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+    </a> 
+    <a href="https://pytorch.org/" target="_blank"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>
+    </a>
+    <a href="https://julialang.org/" target="_blank"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="Julia" width="60" height="60"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+    </a>
+    <a href="https://docs.pytest.org/" target="_blank"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="PyTest" width="60" height="60"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+    </a>
   </p>
-  
 </details>
+
 
 <br>
 <div align="center">
