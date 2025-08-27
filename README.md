@@ -37,6 +37,7 @@
   </p>
 </details>
 
+---
 
 <br>
 <div align="center">
@@ -47,7 +48,7 @@
 </div>
 
 --- 
-<br><br>
+
 <div align="center">
   <h1>Contact Me!</h1>
   
