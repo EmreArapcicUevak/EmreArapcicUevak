@@ -60,10 +60,17 @@
 
 <br>
 <div align="left">
-  <a href="mailto:EmreArapcicUevak@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/emre-arapcicuevak-5a8b58254/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
+<a href="mailto:EmreArapcicUevak@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/emre-arapcicuevak-5a8b58254/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://raw.githubusercontent.com/EmreArapcicUevak/CV/main/src/CV.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Academic%20CV-PDF-4d7f45?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
 </div>
